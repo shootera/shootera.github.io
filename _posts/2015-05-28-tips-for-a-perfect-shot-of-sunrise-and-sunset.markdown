@@ -5,7 +5,7 @@ date: '2015-05-28'
 cover_image: '/content/images/2015/5/sunrise-sunset.jpg'
 ---
 
-A beautiful sunrise or sunset is the most amazing landscape to do justice with your camera.The first and the foremost Setting you need to do is changing the white balance of your camera to daylight from automatic.
+A beautiful sunrise or sunset is the most amazing landscape to do justice with your camera. The first and the foremost Setting you need to do is changing the white balance of your camera to daylight from automatic.
 
 ### Setting up your camera right
 
