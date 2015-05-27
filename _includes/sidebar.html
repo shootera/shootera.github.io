@@ -1,0 +1,77 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+        
+      <a href="{{ site.baseurl }}" title="Link to homepage for {{ site.title }}"><img src="{{ site.logo }}" width="80" alt="{{ site.title }} logo" class="panel-cover__logo logo" /></a>
+        
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}{% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}{% endif %}
+      {% endfor %}
+      
+          </nav>
+     
+      
+      <nav class="sidebar-social">
+  <ul class="navigation">
+
+
+  <!-- Twitter -->
+  <li class="social-item twitter">
+    <a href="http://twitter.com/{{ site.twitter }}" title="{{ site.twitter }} on Twitter" target="_blank">
+      <i class='icon fi-social-twitter'></i>
+      <span class="label">Twitter</span>
+    </a>
+  </li>
+
+  <!-- Google+ -->
+  <li class="social-item gplus">
+    <a href="https://plus.google.com/103880854587965093412/" title="+Shootera2015" target="_blank">
+      <i class='icon fi-social-google-plus'></i>
+      <span class="label">Google+</span>
+    </a>
+  </li>
+
+    <!-- Facebook -->
+    <li class="social-item facebook">
+      <a href="#" title="Shootera on Facebook" target="_blank">
+        <i class='icon fi-social-facebook'></i>
+        <span class="label">Facebook</span>
+      </a>
+    </li>
+
+    <!-- Youtube -->
+    <li class="social-item youtube">
+      <a href="#" title="Shootera on Youtube" target="_blank">
+        <i class='icon fi-social-youtube'></i>
+        <span class="label">Youtube</span>
+      </a>
+    </li>
+
+  </ul>
+</nav>
+      
+      
+      
+
+
+  </div>
+</div>

@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Shootera | Official Blog
+description:      'We help you find the perfect photographer for your event. Our blog covers photography articles, product reviews, tutorial videos and lots of amazing stuff for photography enthusiasts.'
+
+url:              http://blog.shootera.in
+baseurl:          /
+logo:             /content/images/me.jpg
+
+author:
+  name:           'Shootera'
+  url:            https://plus.google.com/103880854587965093412/
+
+paginate:         5
+
+disqus_shortname: shootera
+
+github:
+  repo:           https://github.com/kushalsharma/shootera.github.io
+
+gems:
+  - jekyll-sitemap
+
+twitter: '@_shootera'
+
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
