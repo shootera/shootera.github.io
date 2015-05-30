@@ -4,7 +4,7 @@
  <title>Shootera</title>
  <link href="http://blog.shootera.in/atom.xml" rel="self"/>
  <link href="http://blog.shootera.in/"/>
- <updated>2015-05-28T00:11:15+05:30</updated>
+ <updated>2015-05-30T18:40:35+05:30</updated>
  <id>http://blog.shootera.in</id>
  <author>
    <name>Shootera</name>
@@ -13,11 +13,75 @@
 
  
  <entry>
+   <title>Point and Shoot Vs DSLR Camera</title>
+   <link href="http://blog.shootera.in/2015/05/30/point-and-shoot-vs-dslr-camera/"/>
+   <updated>2015-05-30T00:00:00+05:30</updated>
+   <id>http://blog.shootera.in/2015/05/30/point-and-shoot-vs-dslr-camera</id>
+   <content type="html">&lt;h3 id=&quot;broadly-there-are-three-major-things-that-differentiate-a-pas-and-dslr&quot;&gt;Broadly there are three major things that differentiate a PAS and DSLR&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Viewfinder Mechanism&lt;/li&gt;
+  &lt;li&gt;Sensor Size&lt;/li&gt;
+  &lt;li&gt;Fixed Vs Interchangeable lenses&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;coming-to-the-naming-of-the-two-types-of-cameras&quot;&gt;Coming to the naming of the two types of camera’s&lt;/h3&gt;
+
+&lt;h4 id=&quot;pas--point-and-shoot&quot;&gt;PAS : POINT AND SHOOT&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You just need to aim the camera (point) and hit the click button (Shoot) while a DSLR could also be used in the same manner, this why they got this name.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;dslr--digital-single-lens-reflex&quot;&gt;DSLR : DIGITAL SINGLE LENS REFLEX&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Take out the word Digital. Now what does a SLR (Single Lens Reflex)? This means a camera that has only one lens (which is true for most of the cameras these days). The light in a SLR follows a reflex or  “Reflected path” through the lens to the camera and from camera to the viewfinder where you view and compose your shot.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;coming-back-to-explain-the-major-differences-between-two-and-what-would-matter-to-you&quot;&gt;Coming back to explain the major differences between two and what would matter to you&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Viewfinder Mechanism&lt;/strong&gt;&lt;br /&gt;
+DSLR’s have a live view finder. PAS have LCD screen as the viewfinder. The viewfinder in the DSLR’s give you an option to view the Scene at the speed of light, or right at the moment when it’s happening. Whereas the PAS first gets the view on to a LCD screen, so there is a slight time lag, as the image needs to be processed and displayed. The viewfinder exists in a DSLR because of an arrangement of mirrors which transfers the view to it, and yes it is because of this arrangement the DSLR’s are oversized than PAS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sensor Size&lt;/strong&gt;&lt;br /&gt;
+This difference is less known (almost an underhood difference). But impacts the quality comparison of the images the most. The PAS cameras have a smaller sensor which is where the camera captures the light to make an image. As a rule, the larger the sensor better the image quality. On an average the sensor size is about 10 to 20 times bigger in a DSLR as compared to PAS. Hence better image quality.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Fixed Vs Interchangeable Lenses&lt;/strong&gt;&lt;br /&gt;
+A DSLR has an option of changing lots and lots of lenses each for different set of pictures For eg : Portraits, wildlife etc. Where as in with a PAS you are stuck with an optical zoom only and after a certain zoom point the image quality falls and it gets Pixilated.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;some-other-points-of-difference-between-a-pas-and-dslr-are&quot;&gt;Some other points of difference between a PAS and DSLR are&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Size : PAS are smaller than DSLR.&lt;/li&gt;
+  &lt;li&gt;Weigh : PAS are lighter than DSLR.&lt;/li&gt;
+  &lt;li&gt;ISO : DSLR has better performance with low light using high ISO&lt;/li&gt;
+  &lt;li&gt;Background blur : PAS cannot give you the background blur you can get with a DSLR&lt;/li&gt;
+  &lt;li&gt;Price : PAS are almost always cheaper than DSLR.&lt;/li&gt;
+  &lt;li&gt;Creative control : Most of PAS cameras are full automatic, givin small or no creative control of the photographic capture (you cannot chose aperture and shutter speed in most of the PAS, or even control where the camera is focusing).&lt;/li&gt;
+  &lt;li&gt;Lens : PAS has a fixed lens, most of the time a zoom one, whereas with a DSLR you can choose the most appropriated lens, being a zoom or prime.&lt;/li&gt;
+  &lt;li&gt;Shutter lag : most of the PAS have a higher shutter lag (time between you pressing the button of the camera and the picture being effectively taken) than DSLRs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The tradeoffs between choosing a PAS and DSLR are money, size, weight and flexibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Tips for a perfect shot of sunrise and sunset</title>
    <link href="http://blog.shootera.in/2015/05/28/tips-for-a-perfect-shot-of-sunrise-and-sunset/"/>
    <updated>2015-05-28T00:00:00+05:30</updated>
    <id>http://blog.shootera.in/2015/05/28/tips-for-a-perfect-shot-of-sunrise-and-sunset</id>
-   <content type="html">&lt;p&gt;A beautiful sunrise or sunset is the most amazing landscape to do justice with your camera.The first and the foremost Setting you need to do is changing the white balance of your camera to daylight from automatic.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A beautiful sunrise or sunset is the most amazing landscape to do justice with your camera. The first and the foremost Setting you need to do is changing the white balance of your camera to daylight from automatic.&lt;/p&gt;
 
 &lt;h3 id=&quot;setting-up-your-camera-right&quot;&gt;Setting up your camera right&lt;/h3&gt;
 
