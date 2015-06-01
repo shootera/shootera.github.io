@@ -36,14 +36,14 @@ A DSLR has an option of changing lots and lots of lenses each for different set 
 
 ### Some other points of difference between a PAS and DSLR are
 
-* Size : PAS are smaller than DSLR.
-* Weigh : PAS are lighter than DSLR.
-* ISO : DSLR has better performance with low light using high ISO
-* Background blur : PAS cannot give you the background blur you can get with a DSLR
-* Price : PAS are almost always cheaper than DSLR.
-* Creative control : Most of PAS cameras are full automatic, givin small or no creative control of the photographic capture (you cannot chose aperture and shutter speed in most of the PAS, or even control where the camera is focusing).
-* Lens : PAS has a fixed lens, most of the time a zoom one, whereas with a DSLR you can choose the most appropriated lens, being a zoom or prime.
-* Shutter lag : most of the PAS have a higher shutter lag (time between you pressing the button of the camera and the picture being effectively taken) than DSLRs.
+* **Size** : PAS are smaller than DSLR.
+* **Weigh** : PAS are lighter than DSLR.
+* **ISO** : DSLR has better performance with low light using high ISO
+* **Background blur** : PAS cannot give you the background blur you can get with a DSLR
+* **Price** : PAS are almost always cheaper than DSLR.
+* **Creative control** : Most of PAS cameras are full automatic, givin small or no creative control of the photographic capture (you cannot chose aperture and shutter speed in most of the PAS, or even control where the camera is focusing).
+* **Lens** : PAS has a fixed lens, most of the time a zoom one, whereas with a DSLR you can choose the most appropriated lens, being a zoom or prime.
+* **Shutter lag** : most of the PAS have a higher shutter lag (time between you pressing the button of the camera and the picture being effectively taken) than DSLRs.
  
 > The tradeoffs between choosing a PAS and DSLR are money, size, weight and flexibility.
 
