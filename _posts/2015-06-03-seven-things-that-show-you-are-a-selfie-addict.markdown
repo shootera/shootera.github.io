@@ -5,6 +5,8 @@ date: '2015-06-03'
 cover_image: '/content/images/2015/6/ellen_selfie_oscars.jpg'
 ---
 
+### Ten things that show you are a Selfie Addict or may be suffering from Chronic Selfitis!
+
 1. #### Let me take a selfie first is your most used line in a day.**
 
    ![image](/content/images/2015/6/200.gif)
